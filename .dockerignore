@@ -1,0 +1,14 @@
+.git
+.gitignore
+.venv
+venv
+node_modules
+dist
+__pycache__
+*.py[cod]
+charts
+test.png
+*.csv
+.env
+.env.*
+!.env.example

@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ai-data-analyst
+    runtime: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /
