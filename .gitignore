@@ -5,3 +5,6 @@ dist/
 !.env.example
 __pycache__/
 *.py[cod]
+charts/*.png
+test.png
+Backend/tempCodeRunnerFile.py
